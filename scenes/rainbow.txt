@@ -1,0 +1,18 @@
+NEAR 1 1 1
+RES 600 600
+SPHERE redSphere 0 2.42 -10 1 1 1 1 0 0 1 1 0.9 0.4 50
+SPHERE orangeSphere 1.89 1.50 -10 1 1 1 1 0.5 0 1 1 0.9 0.4 50
+SPHERE yellowSphere 2.36 -0.54 -10 1 1 1 1 1 0 1 1 0.9 0.4 50
+SPHERE greenSphere 1.05 -2.18 -10 1 1 1 0 1 0 1 1 0.9 0.4 50
+SPHERE blueSphere -1.05 -2.18 -10 1 1 1 0 0.5 1 1 1 0.9 0.4 50
+SPHERE purpleSphere -2.36 -0.54 -10 1 1 1 0.5 0 1 1 1 0.9 0.4 50
+SPHERE pinkSphere -1.89 1.5 -10 1 1 1 1 0 1 1 1 0.9 0.4 50
+SPHERE whiteSphere 0 0 -10 1 1 1 0.9 0.9 0.9 1 1 0.9 0.4 50
+SPHERE reflectiveSphere1 9 9 -10 8 8 8 0.05 0.05 0.15 1 1 0.9 0.4 50
+SPHERE reflectiveSphere2 9 -9 -10 8 8 8 0.05 0.05 0.15 1 1 0.9 0.4 50
+SPHERE reflectiveSphere3 -9 9 -10 8 8 8 0.05 0.05 0.15 1 1 0.9 0.4 50
+SPHERE reflectiveSphere4 -9 -9 -10 8 8 8 0.05 0.05 0.15 1 1 0.9 0.4 50
+LIGHT whiteLight1 -5 5 0 0.3 0.3 0.3
+LIGHT whiteLight2 5 5 0 0.3 0.3 0.3
+BACK 0 0 0
+AMBIENT 0.2 0.2 0.2
