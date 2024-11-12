@@ -1,5 +1,7 @@
 # :crystal_ball: Ray Tracer
 
+![Rainbow Scene](https://github.com/lewcab/raytracer/blob/main/scenes/rainbow.png?raw=true)
+
 This project is a  Python Ray Tracer, which can render simple scenes containing multiple light sources and spheres. These lights and spheres take on certain attributes which determine its size, position, color. 
 
 Since the nature of each pixel is independent of others in the scene, Pythons `multiprocessing` library is used to speed up the work.
